@@ -195,7 +195,7 @@
               "RelativeDocumentMoniker": "..\\..\\visual studio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ToolTip": "D:\\visual studio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeToolTip": "..\\..\\visual studio\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAACoVAAAAAAAAAADgv5QUAAACAAAAAAAAAA==",
+              "ViewState": "AgIAADAVAAAAAAAAAADgv5QUAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-04-01T16:34:06.591Z",
               "EditorCaption": ""
@@ -210,8 +210,7 @@
               "RelativeToolTip": "ConcertTickets.Web\\Controllers\\ConcertController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T16:27:09.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:27:09.504Z"
             },
             {
               "$type": "Document",
@@ -223,8 +222,7 @@
               "RelativeToolTip": "ConcertTickets.Domain\\Domain\\Concert.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T16:27:35.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:27:35.022Z"
             },
             {
               "$type": "Document",
@@ -236,8 +234,7 @@
               "RelativeToolTip": "ConcertTickets.Domain\\Domain\\Ticket.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T16:28:09.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:28:09.603Z"
             },
             {
               "$type": "Document",
@@ -249,13 +246,12 @@
               "RelativeToolTip": "ConcertTickets.Domain\\Identity\\ApplicationUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T16:31:50.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:31:50.587Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ConcertTickets.Domain",
+              "Title": "ConcertTickets.Domain.csproj",
               "DocumentMoniker": "D:\\Integrirani\\ConcertTickets\\ConcertTickets.Domain\\ConcertTickets.Domain.csproj",
               "RelativeDocumentMoniker": "ConcertTickets.Domain\\ConcertTickets.Domain.csproj",
               "ToolTip": "D:\\Integrirani\\ConcertTickets\\ConcertTickets.Domain\\ConcertTickets.Domain.csproj",
@@ -275,13 +271,12 @@
               "RelativeToolTip": "ConcertTickets.Web\\Controllers\\TicketController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T16:27:48.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:27:48.886Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ConcertTickets.Web",
+              "Title": "ConcertTickets.Web.csproj",
               "DocumentMoniker": "D:\\Integrirani\\ConcertTickets\\ConcertTickets.Web\\ConcertTickets.Web.csproj",
               "RelativeDocumentMoniker": "ConcertTickets.Web\\ConcertTickets.Web.csproj",
               "ToolTip": "D:\\Integrirani\\ConcertTickets\\ConcertTickets.Web\\ConcertTickets.Web.csproj",
@@ -301,8 +296,7 @@
               "RelativeToolTip": "ConcertTickets.Web\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T16:33:14.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:33:14.183Z"
             },
             {
               "$type": "Document",
@@ -314,8 +308,7 @@
               "RelativeToolTip": "ConcertTickets.Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T16:27:25.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T16:27:25.505Z"
             },
             {
               "$type": "Document",
