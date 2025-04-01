@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcertTickets.Web", "ConcertTickets\ConcertTickets.Web.csproj", "{CD62FB60-4664-448D-AB38-862EA2811668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcertTickets.Domain", "Domain\ConcertTickets.Domain.csproj", "{72115C43-37E0-4EC4-91B9-B6528DC5727C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD62FB60-4664-448D-AB38-862EA2811668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD62FB60-4664-448D-AB38-862EA2811668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD62FB60-4664-448D-AB38-862EA2811668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD62FB60-4664-448D-AB38-862EA2811668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72115C43-37E0-4EC4-91B9-B6528DC5727C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72115C43-37E0-4EC4-91B9-B6528DC5727C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72115C43-37E0-4EC4-91B9-B6528DC5727C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72115C43-37E0-4EC4-91B9-B6528DC5727C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41E1406C-D404-4349-BEFE-04BA49F4DEDF}
+	EndGlobalSection
+EndGlobal

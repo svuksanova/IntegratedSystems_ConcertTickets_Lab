@@ -1,0 +1,54 @@
+﻿@model List<ConcertTickets.Domain.Domain.Concert>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+
+    <div class="row">
+        <a class="btn btn-success" asp-action="Create">Insert New Concert</a>
+    </div>
+
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        var item = Model[i];
+
+        @if(i%4 == 0)
+        {
+            @:<div class="row">
+        }
+
+                <div class="col-md-3 mt-4">
+
+                    <div class="card" style="width: 15rem; height: 35rem;">
+                        <img class="card-img-top" src="@item.ConcertImageUrl" style="height: 50%;" alt="Image for product!">
+
+                        <div class="card-body">
+                            <h3 class="card-title">@item.ConcertName</h3>
+                            <p class="card-text">@item.ConcertDate</p>
+                            <h6 class="card-title">@item.ConcertPlace</h6>
+                            <h6 class="card-title">@item.ConcertDate</h6>
+                            
+
+
+                            @*<h6>Price: @item.price ДЕН</h6>*@
+                        </div>
+
+                        <div class="card-footer">
+                            <a asp-controller="Concert" asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                            <a asp-controller="Concert" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Edit</a>
+                            <a asp-controller="Concert" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                        </div>
+                    </div>
+
+                </div>
+
+          @if(i % 4 == 3) 
+        {
+            @:</div>    
+        }
+    }
+
+</div>

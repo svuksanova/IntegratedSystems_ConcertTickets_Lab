@@ -1,0 +1,12 @@
+D:\Integrirani\ConcertTickets\Domain\bin\Debug\net8.0\ConcertTicketsDomain.deps.json
+D:\Integrirani\ConcertTickets\Domain\bin\Debug\net8.0\ConcertTicketsDomain.dll
+D:\Integrirani\ConcertTickets\Domain\bin\Debug\net8.0\ConcertTicketsDomain.pdb
+D:\Integrirani\ConcertTickets\Domain\obj\Debug\net8.0\ConcertTicketsDomain.csproj.AssemblyReference.cache
+D:\Integrirani\ConcertTickets\Domain\obj\Debug\net8.0\ConcertTicketsDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Integrirani\ConcertTickets\Domain\obj\Debug\net8.0\ConcertTicketsDomain.AssemblyInfoInputs.cache
+D:\Integrirani\ConcertTickets\Domain\obj\Debug\net8.0\ConcertTicketsDomain.AssemblyInfo.cs
+D:\Integrirani\ConcertTickets\Domain\obj\Debug\net8.0\ConcertTicketsDomain.csproj.CoreCompileInputs.cache
+D:\Integrirani\ConcertTickets\Domain\obj\Debug\net8.0\ConcertTicketsDomain.dll
+D:\Integrirani\ConcertTickets\Domain\obj\Debug\net8.0\refint\ConcertTicketsDomain.dll
+D:\Integrirani\ConcertTickets\Domain\obj\Debug\net8.0\ConcertTicketsDomain.pdb
+D:\Integrirani\ConcertTickets\Domain\obj\Debug\net8.0\ref\ConcertTicketsDomain.dll
